@@ -20,8 +20,8 @@ pip install aiogram
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/aiogram-calculator-bot.git
-cd aiogram-calculator-bot
+git clone https://github.com/wahnkoij/calculating_bot
+cd calculating_bot
 ```
 
 2. Install dependencies:
