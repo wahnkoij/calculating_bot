@@ -4,7 +4,7 @@ import sys
 import re
 import math
 
-bot = Bot(token="6486211325:AAEv2WMPetRw-9xlqtBOOfk1zgrKHvx_lx8")
+bot = Bot(token="your_token")
 dp = Dispatcher(bot)
 
 greet = "Hello! I am a calculator! Just type your expression and I will solve it for you"
